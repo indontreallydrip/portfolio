@@ -967,13 +967,6 @@
   },
   "dock": [
     {
-      "type": "finder",
-      "tip": "Finder"
-    },
-    {
-      "type": "div"
-    },
-    {
       "type": "app",
       "icon": "ps",
       "tip": "Photoshop",
@@ -1006,6 +999,10 @@
     },
     {
       "type": "div"
+    },
+    {
+      "type": "finder",
+      "tip": "Finder"
     },
     {
       "type": "about",
