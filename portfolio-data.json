@@ -946,7 +946,7 @@
   "settings": {
     "defaultLang": "it",
     "defaultTheme": "dark",
-    "wallpaper": 1,
+    "wallpaper": 2,
     "wallpaperEnabled": true,
     "wallpapers": [
       {
@@ -960,9 +960,6 @@
       },
       {
         "bg": "linear-gradient(160deg,#3a3f8a,#1a1d3a)"
-      },
-      {
-        "bg": "linear-gradient(135deg,#5a4a7a,#16323a)"
       }
     ],
     "cvFileIt": "cv-it.pdf",
