@@ -124,7 +124,9 @@
         "it": "Treatment · Editorial",
         "en": "Treatment · Editorial"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -318,7 +320,9 @@
         "it": "Key Visual · Art Direction",
         "en": "Key Visual · Art Direction"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -348,7 +352,9 @@
         "it": "Sticker · Illustrazione",
         "en": "Sticker · Illustration"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -378,7 +384,9 @@
         "it": "Poster · Type",
         "en": "Poster · Type"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -408,7 +416,9 @@
         "it": "Poster · Type",
         "en": "Poster · Type"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -503,7 +513,9 @@
             "en": "UGC videos on alternating days with Ruben and Mr. Rana, highlighting product quality and tradition alongside culinary creativity."
           }
         }
-      ]
+      ],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -568,7 +580,9 @@
             "en": "Phase one: UGC with Alessia Lanza explaining the challenge (official hashtag and Ryanair tag). Phase two: live streaming, interviews and behind-the-scenes from the red carpet."
           }
         }
-      ]
+      ],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
@@ -658,12 +672,14 @@
         "it": "Curation · Cover Art",
         "en": "Curation · Cover Art"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "file",
-      "id": "pescara",
-      "name": "PESCARA",
+      "id": "vesciche-piene",
+      "name": "Vesciche Piene",
       "year": "",
       "type": {
         "it": "Personal",
@@ -682,7 +698,9 @@
         "it": "Personale",
         "en": "Personal"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [],
+      "hidden": true
     },
     {
       "kind": "collection",
@@ -798,7 +816,8 @@
           ],
           "link": ""
         }
-      ]
+      ],
+      "hidden": true
     }
   ],
   "cv": {
