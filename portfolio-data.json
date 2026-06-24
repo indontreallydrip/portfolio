@@ -301,7 +301,13 @@
         "it": "Logo · Brand Identity",
         "en": "Logo · Brand Identity"
       },
-      "blocks": []
+      "blocks": [],
+      "credits": [
+        {
+          "r": "In collaborazione con - In collaboration with",
+          "n": "Andrea Di Mambro"
+        }
+      ]
     },
     {
       "kind": "file",
