@@ -1259,12 +1259,9 @@
   "settings": {
     "defaultLang": "it",
     "defaultTheme": "dark",
-    "wallpaper": 1,
+    "wallpaper": 0,
     "wallpaperEnabled": true,
     "wallpapers": [
-      {
-        "bg": "linear-gradient(160deg,#ff5e7e,#a249f0)"
-      },
       {
         "bg": "linear-gradient(160deg,#0e7a8a,#15324f)"
       },
