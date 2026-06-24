@@ -113,7 +113,8 @@
           ]
         }
       ],
-      "credits": []
+      "credits": [],
+      "hidden": false
     },
     {
       "kind": "file",
