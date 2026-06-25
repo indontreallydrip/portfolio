@@ -1237,9 +1237,9 @@
     },
     {
       "kind": "file",
-      "id": "pmqtj5l6x",
-      "name": "Nuovo progetto",
-      "year": "",
+      "id": "ticketoo-date",
+      "name": "TICKETOO DATE",
+      "year": "2026",
       "type": {
         "it": "",
         "en": ""
@@ -1251,21 +1251,37 @@
         "en": ""
       },
       "tags": [],
-      "link": "",
-      "client": "",
+      "link": "https://open.spotify.com/show/3idonywRIML8LEqBPGbJZZ?si=046b24cef7f44a90",
+      "client": "Ticketoo",
       "context": {
-        "it": "",
-        "en": ""
+        "it": "Lavoro su commisione",
+        "en": "Commisioned"
       },
       "deliv": {
-        "it": "",
-        "en": ""
+        "it": "Poster Design",
+        "en": "Poster Design"
       },
       "shots": 3,
       "gallery": [],
       "sections": [],
       "credits": [],
-      "blocks": []
+      "blocks": [
+        {
+          "type": "text",
+          "h": {
+            "it": "CONCEPT",
+            "en": ""
+          },
+          "body": {
+            "it": "Ticketoo-Date è il format firmato Ticketoo che trasforma la musica in connessione. Due sconosciuti si incontrano, parlano dei loro gusti musicali, giocano per scoprirsi davvero e, alla fine, devono prendere una decisione: andare insieme a un concerto oppure no? Perché nessuno dovrebbe rinunciare a un evento solo perché non ha compagnia.",
+            "en": "Ticketoo-Date is Ticketoo’s original format that turns music into connection. Two strangers meet, talk about their musical tastes, play games to really get to know each other, and, in the end, have to make a decision: should they go to a concert together or not? Because no one should have to miss an event just because they don’t have anyone to go with."
+          }
+        }
+      ],
+      "linkLabel": {
+        "it": "Vai al Podcast",
+        "en": "Open Podcast"
+      }
     }
   ],
   "cv": {
