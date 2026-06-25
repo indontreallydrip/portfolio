@@ -427,6 +427,13 @@
           "type": "palette",
           "colors": [
             {
+              "hex": "#FFFFFF",
+              "name": {
+                "it": "Bianco",
+                "en": "White"
+              }
+            },
+            {
               "hex": "#FCBE0E",
               "name": {
                 "it": "",
@@ -445,6 +452,13 @@
               "name": {
                 "it": "",
                 "en": "Air Force Blue"
+              }
+            },
+            {
+              "hex": "#000000",
+              "name": {
+                "it": "Nero",
+                "en": "Black"
               }
             }
           ]
