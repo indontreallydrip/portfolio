@@ -1175,6 +1175,38 @@
         }
       ],
       "hidden": false
+    },
+    {
+      "kind": "file",
+      "id": "pmqtj5l6x",
+      "name": "Nuovo progetto",
+      "year": "",
+      "type": {
+        "it": "",
+        "en": ""
+      },
+      "bg": "linear-gradient(135deg,#5a4a7a,#16323a)",
+      "img": "",
+      "desc": {
+        "it": "",
+        "en": ""
+      },
+      "tags": [],
+      "link": "",
+      "client": "",
+      "context": {
+        "it": "",
+        "en": ""
+      },
+      "deliv": {
+        "it": "",
+        "en": ""
+      },
+      "shots": 3,
+      "gallery": [],
+      "sections": [],
+      "credits": [],
+      "blocks": []
     }
   ],
   "cv": {
@@ -1229,7 +1261,7 @@
           "it": "UI/UX Design Consultant",
           "en": "UI/UX Design Consultant"
         },
-        "d": "Feb 2025 — *",
+        "d": "Feb 2025 — Mar 2025",
         "p": {
           "it": "•⁠ Consulenza UI/UX continuativa sull’app Ticketoo, ottimizzando flussi chiave (checkout, biglietti, banner) con riduzione del 28% del drop-off checkout e aumentando la conversione.\n•⁠ ⁠Implementato 5 nuovi flussi utente principali sull’app, testando con 120+ utenti reali.\n•⁠ ⁠Creato 20+ componenti UI nel design system, riducendo il time-to-design e standardizzando degli elementi visivi della piattaforma.",
           "en": "•⁠ Provided ongoing UI/UX consultancy for the Ticketoo app, optimising key workflows (checkout, tickets, banners), resulting in a 28% reduction in checkout drop-off and an increase in conversion rates.\n•⁠ ⁠Implemented 5 new main user workflows on the app, testing them with over 120 real users.\n•⁠ Created over 20 UI components within the design system, reducing time-to-design and standardising the platform’s visual elements."
