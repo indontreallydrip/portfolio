@@ -251,8 +251,8 @@
       "bg": "linear-gradient(135deg,#e0526a,#1a8a9a)",
       "img": "https://mir-s3-cdn-cf.behance.net/projects/404/c651e6193551485.Y3JvcCwyMjI3LDE3NDIsMjg2LDA.png",
       "desc": {
-        "it": "",
-        "en": ""
+        "it": "Brain Lab sviluppa integratori formulati per migliorare concentrazione ed energia mentale, pensati per sostenere memoria, focus e lucidità nelle sfide di ogni giorno. Il brief chiedeva un'identità capace di comunicare affidabilità scientifica senza rinunciare a un tono diretto e contemporaneo, in grado di distinguersi sullo scaffale.",
+        "en": "Brain Lab develops supplements formulated to improve concentration and mental energy, designed to support memory, focus, and mental clarity in everyday challenges. The brief called for a brand identity that would convey scientific reliability without sacrificing a direct and contemporary tone, one that would stand out on the shelf."
       },
       "tags": [
         "Branding",
@@ -279,11 +279,11 @@
           "type": "text",
           "h": {
             "it": "CONCEPT",
-            "en": ""
+            "en": "THE PROJECT"
           },
           "body": {
-            "it": "Brain Lab è un'azienda specializzata nello sviluppo e nella produzione di integratori formulati per migliorare la concentrazione e l'energia mentale. La loro gamma di prodotti è progettata per supportare la memoria, la concentrazione e la chiarezza mentale, offrendo soluzioni efficaci per affrontare le sfide quotidiane con maggiore vigore e lucidità.",
-            "en": "Brain Lab is a company specializing in the development and production of supplements formulated to improve concentration and mental energy. Their product line is designed to support memory, concentration, and mental clarity, offering effective solutions to tackle daily challenges with greater vigor and clarity."
+            "it": "Al centro c'è un neurone stilizzato: il segno che racchiude tutto il progetto. Rappresenta il focus dell'azienda sull'ottimizzazione delle funzioni cognitive e, insieme, la ricerca e l'innovazione dietro ogni formula. Connessione, intelligenza, vitalità — un simbolo che vive dentro il logotipo e diventa pattern, texture, sistema.<BR><BR>Il logotipo unisce \"Brain\" e \"Lab\" con il neurone incastonato al centro, a saldare le due parole in un unico blocco. Per il lettering abbiamo scelto Base Neue: un carattere corposo e impattante, che regge il confronto con il pittogramma e dà al marchio una presenza decisa.<br><br>Due colori primari costruiscono il sistema e distinguono le linee: Sky Blue per la linea FOCUS, Raspeberry per la linea BOOST. A supporto, due toni più profondi: Dark Teal e Coffee Bean, per dare struttura e contrasto.",
+            "en": "At the center is a stylized neuron: the symbol that encapsulates the entire project. It represents the company’s focus on optimizing cognitive functions and, at the same time, the research and innovation behind every formula. Connection, intelligence, vitality—a symbol that lives within the logo and becomes a pattern, a texture, a system.<BR><BR>The logo combines “Brain” and “Lab” with the neuron nestled in the center, fusing the two words into a single unit. For the lettering, we chose Base Neue: a bold, impactful typeface that holds its own against the pictogram and gives the brand a strong presence.<br><br>Two primary colors form the system and distinguish the lines: Sky Blue for the FOCUS line, Raspberry for the BOOST line. Supporting these are two deeper tones—Dark Teal and Coffee Bean—to provide structure and contrast."
           }
         },
         {
@@ -326,8 +326,19 @@
             "en": ""
           },
           "body": {
-            "it": "Come icone rappresentative dei due prodotti, abbiamo adoperato, mantenendo un’approccio diretto, di facile metabolizazione e coerente con il brand, l’illustrazione di un razzo per i prodotti BOOST e di un cervello stilizzato per i prodotti FOCUS. Il risultato è pulito, comunicativo e adatto al target di riferimento.",
-            "en": "As representative icons for the two products, we used—while maintaining a direct, easily understandable approach consistent with the brand—an illustration of a rocket for the BOOST products and a stylized brain for the FOCUS products. The result is clean, communicative, and well-suited to the target audience."
+            "it": "Ogni linea ha la sua icona, per una lettura immediata a scaffale: un cervello per Focus, un razzo per Boost. Illustrazioni pulite e dirette, coerenti con il tono del brand e leggibili anche a formato ridotto.",
+            "en": "Each line has its own icon, making it easy to identify on the shelf: a brain for Focus, a rocket for Boost. The illustrations are clean and straightforward, consistent with the brand’s tone, and easy to recognize even in small sizes."
+          }
+        },
+        {
+          "type": "text",
+          "h": {
+            "it": "PACKAGING",
+            "en": ""
+          },
+          "body": {
+            "it": "Il sistema si applica su astucci e bustine monodose: layout ordinato, gerarchie chiare, pattern derivati dal neurone. Il packaging tiene insieme informazione tecnica e riconoscibilità, ed è pensato per funzionare anche in animazione.",
+            "en": "The system is applied to single-dose cases and pouches: a clean layout, clear hierarchies, and patterns inspired by neurons. The packaging combines technical information with brand recognition and is designed to work effectively even in animated form."
           }
         }
       ],
