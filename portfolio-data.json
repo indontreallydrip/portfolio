@@ -283,7 +283,7 @@
           },
           "body": {
             "it": "Brain Lab è un'azienda specializzata nello sviluppo e nella produzione di integratori formulati per migliorare la concentrazione e l'energia mentale. La loro gamma di prodotti è progettata per supportare la memoria, la concentrazione e la chiarezza mentale, offrendo soluzioni efficaci per affrontare le sfide quotidiane con maggiore vigore e lucidità.",
-            "en": ""
+            "en": "Brain Lab is a company specializing in the development and production of supplements formulated to improve concentration and mental energy. Their product line is designed to support memory, concentration, and mental clarity, offering effective solutions to tackle daily challenges with greater vigor and clarity."
           }
         },
         {
@@ -318,6 +318,17 @@
               }
             }
           ]
+        },
+        {
+          "type": "text",
+          "h": {
+            "it": "FOCUS & BOOST",
+            "en": ""
+          },
+          "body": {
+            "it": "Come icone rappresentative dei due prodotti, abbiamo adoperato, mantenendo un’approccio diretto, di facile metabolizazione e coerente con il brand, l’illustrazione di un razzo per i prodotti BOOST e di un cervello stilizzato per i prodotti FOCUS. Il risultato è pulito, comunicativo e adatto al target di riferimento.",
+            "en": "As representative icons for the two products, we used—while maintaining a direct, easily understandable approach consistent with the brand—an illustration of a rocket for the BOOST products and a stylized brain for the FOCUS products. The result is clean, communicative, and well-suited to the target audience."
+          }
         }
       ],
       "credits": [
